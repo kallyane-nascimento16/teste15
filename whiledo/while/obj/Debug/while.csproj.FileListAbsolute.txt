@@ -1,0 +1,8 @@
+C:\Users\SENAI\Documents\kallyane C#\whiledo\while\bin\Debug\@while.exe.config
+C:\Users\SENAI\Documents\kallyane C#\whiledo\while\bin\Debug\@while.exe
+C:\Users\SENAI\Documents\kallyane C#\whiledo\while\bin\Debug\@while.pdb
+C:\Users\SENAI\Documents\kallyane C#\whiledo\while\obj\Debug\while.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\kallyane C#\whiledo\while\obj\Debug\while.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENAI\Documents\kallyane C#\whiledo\while\obj\Debug\while.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\kallyane C#\whiledo\while\obj\Debug\@while.exe
+C:\Users\SENAI\Documents\kallyane C#\whiledo\while\obj\Debug\@while.pdb
